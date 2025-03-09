@@ -9,7 +9,6 @@ A secure, multi-user task management system built with Python. This project enab
 - 🔑 **User Authentication**: Secure login and registration with password hashing.
 - ✅ **Task Management**: Create, update, delete, and list tasks.
 - 🔄 **Backup & Restore**: Securely store and retrieve user data.
-- 📂 **Export System**: Export tasks to CSV/PDF (coming soon!).
 
 ## Installation
 ```sh
