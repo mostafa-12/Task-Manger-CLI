@@ -35,7 +35,6 @@ python main.py
 ├── task.py          # Task handling
 ├── managing.py      # File management
 ├── encryption.py    # Security functions
-├── notifications.py # Task reminders
 ├── requirements.txt # requirements 
 └── README.md        # Project documentation 
 ```
